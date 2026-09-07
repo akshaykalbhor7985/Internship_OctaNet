@@ -9,5 +9,3 @@ A pair of front-end internship exercises demonstrating responsive layout and sim
 - Languages: HTML, CSS (primary)
 - Libraries: jQuery (CDN) and Font Awesome (CDN) used in Task2
 - No build tools or backend required — static assets only.
-
-## Repository structure
